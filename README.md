@@ -1,5 +1,5 @@
 # HTML-and-CSS-Projects-
-new repo-Github assignment for the Automated HTML and CSS Course
+This repo contains all my HTML and CSS Projects 
 <html></html>
 </body>
 </body>
